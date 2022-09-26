@@ -1,0 +1,13 @@
+Start
+2132
+Algorithms
+1000
+3
+2012
+Thomas cormen
+3233
+Operating systems
+1200
+4
+2019
+Lee
